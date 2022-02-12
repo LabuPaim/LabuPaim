@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Olá, Eu sou Victor Paim <img src="https://github.com/Leoruiz197/Leoruiz197/blob/main/img/Hi.gif" width="50px" margin="50px">
 ##### ✨BLUEMER ✨
 
