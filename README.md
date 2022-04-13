@@ -5,6 +5,14 @@
 
 ## Iniciei meus estudos na Blue Edtech, e vou compartilhar com vocês o meu progresso no mundo da PROGRAMAÇÃO!
 
+- HTML | EJS
+- CSS | SASS
+- JavaScript | NodeJS
+- Express
+- SQL
+- MVC | BEM
+- Bootstrap | Tailwind
+
 
 
 
