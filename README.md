@@ -1,4 +1,4 @@
-# Olá, Eu sou Victor Paim <img src="https://github.com/Leoruiz197/Leoruiz197/blob/main/img/Hi.gif" width="25px" margin="25px">
+# Olá, Eu sou Victor Paim <img src="https://github.com/Leoruiz197/Leoruiz197/blob/main/img/Hi.gif" width="5px" margin="5px">
 ##### ✨BLUEMER ✨
 
 
