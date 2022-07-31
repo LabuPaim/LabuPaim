@@ -2,8 +2,8 @@
 ##### ✨BLUEMER ✨
 
 
-### Um desenvolvedor full-stack ainda em transição de carreira e sem experiência em desenvolvimento web, mas possuo bom conhecimento em JavaScript Vanilla, NodeJS, MongoDB, HTML e CSS além de alguns frameworks e pré-processadores como Express, Nodemon, JWT, Bcrypt, Bootstrap, Tailwind e Sass. 
-### Sou muito organizado, uso metodologias ágeis como Kanban e me preocupo em utilizar boas práticas de arquitetura como MVC, Swagger e BEM além de algumas ferramentas como Git, VS Code, Trello e Excel. Determinado e proativo, sempre busco soluções estratégicas frente aos problemas. Tenho boa relação interpessoal, resiliência e persistência em desenvolver um bom trabalho.
+### Sou um desenvolvedor full-stack ainda em transição de carreira, possuo bom conhecimento em JavaScript, NodeJS, MongoDB, HTML, CSS e ReactJS além de alguns frameworks, bibliotecas e pré-processadores como Express, Nodemon, JWT, Bcrypt, Bootstrap, Tailwind, Sass e ChakraUi.
+### Sou muito organizado, uso metodologias ágeis como Kanban e me preocupo em utilizar boas práticas de arquitetura como MVC, Swagger, BEM e camelCase além de algumas ferramentas como Git, VS Code, Trello e Excel. Determinado e proativo, sempre busco soluções estratégicas frente aos problemas. Tenho boa relação interpessoal, resiliência e persistência em desenvolver um bom trabalho.
 
 <br/>
 <p style = display: "inline block" align = "justify" >
