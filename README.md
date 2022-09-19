@@ -2,8 +2,9 @@
 ##### ✨BLUEMER ✨
 
 
-### Sou um desenvolvedor FrontEnd ainda em transição de carreira, possuo bom conhecimento em JavaScript, NodeJS, MongoDB, HTML, CSS e ReactJS além de alguns frameworks, bibliotecas e pré-processadores como Express, Nodemon, JWT, Bcrypt, Bootstrap, Tailwind, Sass e ChakraUi.
-### Sou muito organizado, uso metodologias ágeis como Kanban e me preocupo em utilizar boas práticas de arquitetura como MVC, Swagger, BEM e camelCase além de algumas ferramentas como Git, VS Code, Trello e Excel. Determinado e proativo, sempre busco soluções estratégicas frente aos problemas. Tenho boa relação interpessoal, resiliência e persistência em desenvolver um bom trabalho.
+### Sou um desenvolvedor FrontEnd, possuo conhecimento em JavaScript, TypeScript, NodeJS, MongoDB, HTML, CSS e ReactJS além de alguns frameworks, bibliotecas e pré-processadores como Express, Bcrypt, NestJs, Axios, Sass, ChakraUi e MaterialUI.
+
+Sou muito organizado, uso metodologias ágeis como Scrum e Kanban e me preocupo em utilizar boas práticas de arquitetura e documentação além de algumas ferramentas como Git, VS Code, Insomnia, Miro, Trello e Excel. Determinado e proativo, sempre busco soluções estratégicas frente aos problemas. Tenho boa relação interpessoal, resiliência e persistência em desenvolver um bom trabalho.
 
 <br/>
 <p style = display: "inline block" align = "justify" >
@@ -21,6 +22,8 @@
 - NoSQL | MongoDB
 - MVC | BEM
 - Swagger
+- TypeScript | ReactJS
+- ChakraUi | MaterialUI
 
 
 <br/>
