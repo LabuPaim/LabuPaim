@@ -24,11 +24,11 @@
 - Swagger
 - TypeScript | ReactJS
 - ChakraUi | MaterialUI
+- Styled-Components
 
 
 <br/>
 
-  *Obs.: Noção básica
    
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
