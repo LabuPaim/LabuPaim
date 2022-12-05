@@ -2,8 +2,7 @@
 ##### ✨BLUEMER ✨
 
 
-### Olá, sou um desenvolvedor Front-End que possui conhecimento em JavaScript, HTML, CSS, FireBase, TypeScripte e
-ReactJS além de alguns frameworks, bibliotecas e pré-processadores como Axios, ExcelJs, Sass, SatyledComponents, ChakraUi e MaterialUI.
+### Olá, sou um desenvolvedor Front-End que possui conhecimento em JavaScript, HTML, CSS, FireBase, TypeScripte e ReactJS além de alguns frameworks, bibliotecas e pré-processadores como Axios, ExcelJs, Sass, SatyledComponents, ChakraUi e MaterialUI.
 Tenho também bom conhecimento com NodeJS, MongoDB, NoSQL, Express, Nodemon, ExcelJs, JWT, Bcryp e NestJs.
 
 ### Sou muito organizado, uso metodologias ágeis como Kanban e Scrum, me preocupo em utilizar boas práticas de
