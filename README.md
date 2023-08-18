@@ -4,7 +4,7 @@
 
 ### Olá, sou um desenvolvedor FullStack que possui conhecimento em JavaScript, Python, HTML, CSS, FireBase, TypeScript e ReactJS além de alguns frameworks, bibliotecas e pré-processadores como Django, Selenium, Axios, ExcelJs, Sass, ChakraUi e MaterialUI.
 
-### Tenho também bom conhecimento com o Back-End como NodeJS, MongoDB, FireBase, SQL, NoSQL, Prisma, Express, Nodemon, ExcelJs, JWT, Bcryp e NestJs.
+### Tenho também bom conhecimento com NodeJS, MongoDB, FireBase, SQL, NoSQL, Prisma, Express, Nodemon, ExcelJs, JWT, Bcryp e NestJs.
 
 
 <br/>
