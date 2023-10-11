@@ -66,7 +66,7 @@
 
 ##
 
-<div style= 'display:"inline block" align = "center" margin = "0px"'>
+<div style = display: "inline block" align = "center" margin = "0px">
   <a href= "https://www.instagram.com/labuupaim" target= "_blank">
     <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
   </a>
