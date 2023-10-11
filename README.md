@@ -5,7 +5,7 @@
   
 
   
- | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LabuPaim&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LabuPaim&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LabuPaim&theme=dracula&utcOffset=-3)](https://github.com/LabuPaim/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LabuPaim&theme=dracula)](https://github.com/LabuPaim/github-profile-summary-cards) |  
  | ----------- | ----------- |
 
 
