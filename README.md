@@ -6,7 +6,7 @@
 ### Sou muito organizado, uso metodologias ágeis como ```Scrum``` e ```Kanban```, me preocupo em utilizar boas práticas de ```arquitetura```, ```documentação``` e ```versionamento```. Determinado e proativo, sempre busco soluções estratégicas frente aos problemas. Tenho boa relação interpessoal, resiliência e persistência com objetivo de sempre desenvolver um bom trabalho.
 
 ### Contato
-#### E-mail: victorpaim80@gmail.com "\n" Whatsapp: (71) 9 8300-6611
+#### E-mail: victorpaim80@gmail.com ```\n``` Whatsapp: (71) 9 8300-6611
 #### Whatsapp: (71) 9 8300-6611
 <br/>
 <p style = display: "inline block" align = "justify" >
