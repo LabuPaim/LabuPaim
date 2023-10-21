@@ -4,6 +4,10 @@
 ### Olá, sou um desenvolvedor Front-End com conhecimento em ```JavaScript```, ```HTML```, ```CSS```, ```TypeScript```, ```ReactJS``` e ```FireBase``` além de alguns frameworks, bibliotecas e pré-processadores como ```Axios```, ```NextJs```, ```ExcelJs```, ```Sass```, ```Bootstrap```, ```Tailwind```, ```ChakraUi```, ```MaterialUI``` e ```Styled-Components```. Tenho também bom conhecimento com Back-End como ```NodeJS```, ```MongoDB```, ```SQL```, ```NoSQL```, ```Prisma```, ```Express```, ```ExcelJs```, ```JWT```, ```Bcryp``` e ```NestJs```.
 
 ### Sou muito organizado, uso metodologias ágeis como ```Scrum``` e ```Kanban```, me preocupo em utilizar boas práticas de ```arquitetura```, ```documentação``` e ```versionamento```. Determinado e proativo, sempre busco soluções estratégicas frente aos problemas. Tenho boa relação interpessoal, resiliência e persistência com objetivo de sempre desenvolver um bom trabalho.
+
+### Contato
+### E-mail: victorpaim80@gmail.com
+### Whatsapp: (71) 9 8300-6611
 <br/>
 <p style = display: "inline block" align = "justify" >
   <img width = "420px" src="https://github-readme-stats.vercel.app/api?username=LabuPaim&show_icons=true&theme=blue-green"><img width = "420px" src="https://github-readme-streak-stats.herokuapp.com/?user=LabuPaim&theme=blue-green"> 
