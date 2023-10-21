@@ -1,11 +1,5 @@
 # Olá, <img src="https://github.com/Leoruiz197/Leoruiz197/blob/main/img/Hi.gif" height="35px" width="35px" margin="5px"> eu sou Victor Paim!
 
-##### ✨BLUEMER ✨
-
-
-
-
-
 
 ### Olá, sou um desenvolvedor Front-End com conhecimento em JavaScript, HTML, CSS, TypeScript, ReactJS e FireBase além de alguns frameworks, bibliotecas e pré-processadores como Axios, NextJs, ExcelJs, Sass, Bootstrap, Tailwind, ChakraUi, MaterialUI e Styled-Components. Tenho também bom conhecimento com Back-End como NodeJS, MongoDB, SQL, NoSQL, Prisma, Express, Nodemon, ExcelJs, JWT, Bcryp e NestJs.
 
