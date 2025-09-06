@@ -1,13 +1,13 @@
 # Olá, <img src="https://github.com/Leoruiz197/Leoruiz197/blob/main/img/Hi.gif" height="35px" width="35px" margin="5px"> eu sou Victor Paim!
 
-### Sou desenvolvedor full stack com mais de 4 anos de experiência, especializado na criação de soluções tecnológicas eficientes, escaláveis e centradas no usuário.
-### Domino linguagens como ```JavaScript```, ```TypeScript```, ```Python```, ```PHP```, ```HTML``` e ```CSS```, com ampla vivência em frameworks e bibliotecas modernas como ```ReactJS```, ```Next.js```, ```Django```, ```Django Rest```, ```Selenium```, ```Cypress```, ```Playwright```, ```Axios```, ```Bootstrap```, ```Tailwind``` e ```Styled-Components```.
+Sou desenvolvedor full stack com mais de 4 anos de experiência, especializado na criação de soluções tecnológicas eficientes, escaláveis e centradas no usuário.
+Domino linguagens como ```JavaScript```, ```TypeScript```, ```Python```, ```PHP```, ```HTML``` e ```CSS```, com ampla vivência em frameworks e bibliotecas modernas como ```ReactJS```, ```Next.js```, ```Django```, ```Django Rest```, ```Selenium```, ```Cypress```, ```Playwright```, ```Axios```, ```Bootstrap```, ```Tailwind``` e ```Styled-Components```.
 
-### No back-end, atuo principalmente com ```Python``` (utilizando ```FastAPI``` e ```Flask```), além de ```Node.js``` e ```NestJS```. Tenho experiência com bancos de dados relacionais e não relacionais, incluindo ```PostgreSQL```, ```MySQL```, ```Oracle```, ```MongoDB``` e ```SQLite```, sempre prezando por performance, segurança e boas práticas de arquitetura escalável.
+No back-end, atuo principalmente com ```Python``` (utilizando ```FastAPI``` e ```Flask```), além de ```Node.js``` e ```NestJS```. Tenho experiência com bancos de dados relacionais e não relacionais, incluindo ```PostgreSQL```, ```MySQL```, ```Oracle```, ```MongoDB``` e ```SQLite```, sempre prezando por performance, segurança e boas práticas de arquitetura escalável.
 
-### Sou organizado, analítico e orientado a resultados, com sólida atuação em metodologias ágeis (```Scrum``` e ```Kanban```). Utilizo ferramentas como ```Git```, ```Figma```, ```Insomnia```, ```Postman```, ```ApiDog```, ```Azure``` e ```Google Cloud``` para manter fluxos de trabalho bem documentados, colaborativos e alinhados com os objetivos do projeto.
+Sou organizado, analítico e orientado a resultados, com sólida atuação em metodologias ágeis (```Scrum``` e ```Kanban```). Utilizo ferramentas como ```Git```, ```Figma```, ```Insomnia```, ```Postman```, ```ApiDog```, ```Azure``` e ```Google Cloud``` para manter fluxos de trabalho bem documentados, colaborativos e alinhados com os objetivos do projeto.
 
-### Tenho perfil proativo, resiliente e focado em soluções, com forte crença no trabalho em equipe e na melhoria contínua como pilares para entregar projetos de alto impacto. Estou em constante evolução técnica e sempre disposto a agregar valor com inovação, estratégia e comprometimento.
+Tenho perfil proativo, resiliente e focado em soluções, com forte crença no trabalho em equipe e na melhoria contínua como pilares para entregar projetos de alto impacto. Estou em constante evolução técnica e sempre disposto a agregar valor com inovação, estratégia e comprometimento.
 
 <br/>
 
