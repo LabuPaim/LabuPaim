@@ -1,6 +1,6 @@
 # Olá, <img src="https://github.com/Leoruiz197/Leoruiz197/blob/main/img/Hi.gif" height="35px" width="35px" margin="5px"> eu sou Victor Paim!
 
-Sou desenvolvedor full stack com mais de 4 anos de experiência, especializado na criação de soluções tecnológicas eficientes, escaláveis e centradas no usuário.
+Sou desenvolvedor full stack com mais de 5 anos de experiência, especializado na criação de soluções tecnológicas eficientes, escaláveis e centradas no usuário.
 Domino linguagens como ```JavaScript```, ```TypeScript```, ```Python```, ```PHP```, ```HTML``` e ```CSS```, com ampla vivência em frameworks e bibliotecas modernas como ```ReactJS```, ```Next.js```, ```Django```, ```Django Rest```, ```Selenium```, ```Cypress```, ```Playwright```, ```Axios```, ```Bootstrap```, ```Tailwind``` e ```Styled-Components```.
 
 No back-end, atuo principalmente com ```Python``` (utilizando ```FastAPI``` e ```Flask```), além de ```Node.js``` e ```NestJS```. Tenho experiência com bancos de dados relacionais e não relacionais, incluindo ```PostgreSQL```, ```MySQL```, ```Oracle```, ```MongoDB``` e ```SQLite```, sempre prezando por performance, segurança e boas práticas de arquitetura escalável.
